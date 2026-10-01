@@ -15,3 +15,5 @@ function calculateDiscountedPrice(quantity, pricePerItem) {
 
     return totalPrice;
 }
+
+module.exports = calculateDiscountedPrice;
